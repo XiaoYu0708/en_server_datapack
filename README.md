@@ -1,1 +1,1 @@
-"# en_server_datapack" 
+# en_server_datapack
